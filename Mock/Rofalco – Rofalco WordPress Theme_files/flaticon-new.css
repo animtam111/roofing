@@ -1,0 +1,95 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 12/01/2021 08:32
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/flaticon/Flaticon.eot");
+  src: url("../fonts/flaticon/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/flaticon/Flaticon.woff2") format("woff2"),
+       url("../fonts/flaticon/Flaticon.woff") format("woff"),
+       url("../fonts/flaticon/Flaticon.ttf") format("truetype"),
+       url("../fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/flaticon/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-style: normal;
+}
+
+.flaticon-roof:before { content: "\f100"; }
+.flaticon-roof-1:before { content: "\f101"; }
+.flaticon-joist:before { content: "\f102"; }
+.flaticon-roof-2:before { content: "\f103"; }
+.flaticon-broken-roof:before { content: "\f104"; }
+.flaticon-joist-1:before { content: "\f105"; }
+.flaticon-roof-3:before { content: "\f106"; }
+.flaticon-roof-4:before { content: "\f107"; }
+.flaticon-hanging-roof-lamp:before { content: "\f108"; }
+.flaticon-roof-5:before { content: "\f109"; }
+.flaticon-chimney-top:before { content: "\f10a"; }
+.flaticon-hammer-tool:before { content: "\f10b"; }
+.flaticon-engineer:before { content: "\f10c"; }
+.flaticon-maintenance:before { content: "\f10d"; }
+.flaticon-project:before { content: "\f10e"; }
+.flaticon-computer:before { content: "\f10f"; }
+.flaticon-repair-tools:before { content: "\f110"; }
+.flaticon-sketch:before { content: "\f111"; }
+.flaticon-brickwall:before { content: "\f112"; }
+.flaticon-sketch-1:before { content: "\f113"; }
+.flaticon-under-construction:before { content: "\f114"; }
+.flaticon-helmet:before { content: "\f115"; }
+.flaticon-worker:before { content: "\f116"; }
+.flaticon-drilling-machine:before { content: "\f117"; }
+.flaticon-wheelbarrow:before { content: "\f118"; }
+.flaticon-shovel:before { content: "\f119"; }
+.flaticon-cement:before { content: "\f11a"; }
+.flaticon-renovation:before { content: "\f11b"; }
+.flaticon-trowel:before { content: "\f11c"; }
+.flaticon-laborers:before { content: "\f11d"; }
+.flaticon-construction:before { content: "\f11e"; }
+.flaticon-helmet-1:before { content: "\f11f"; }
+.flaticon-gear:before { content: "\f120"; }
+.flaticon-construction-worker:before { content: "\f121"; }
+.flaticon-shovel-1:before { content: "\f122"; }
+.flaticon-document:before { content: "\f123"; }
+.flaticon-construction-and-tools:before { content: "\f124"; }
+.flaticon-jackhammer:before { content: "\f125"; }
+.flaticon-drawing:before { content: "\f126"; }
+.flaticon-process:before { content: "\f127"; }
+.flaticon-excavator:before { content: "\f128"; }
+.flaticon-blueprint:before { content: "\f129"; }
+.flaticon-engineering:before { content: "\f12a"; }
+.flaticon-tile:before { content: "\f12b"; }
+.flaticon-home-repair:before { content: "\f12c"; }
+.flaticon-tools:before { content: "\f12d"; }
+.flaticon-trowel-1:before { content: "\f12e"; }
+.flaticon-survey:before { content: "\f12f"; }
+.flaticon-saw:before { content: "\f130"; }
+.flaticon-tools-1:before { content: "\f131"; }
+.flaticon-farming-tools:before { content: "\f132"; }
+.flaticon-gardening-tools:before { content: "\f133"; }
+.flaticon-compass:before { content: "\f134"; }
+.flaticon-construction-1:before { content: "\f135"; }
+.flaticon-under-construction-1:before { content: "\f136"; }
+.flaticon-tool-box:before { content: "\f137"; }
+.flaticon-pickaxe:before { content: "\f138"; }
+.flaticon-gps:before { content: "\f139"; }
+.flaticon-home:before { content: "\f13a"; }
+.flaticon-suspect:before { content: "\f13b"; }
+.flaticon-call:before { content: "\f13c"; }
+.flaticon-call-1:before { content: "\f13d"; }
+.flaticon-plus:before { content: "\f13e"; }
+.flaticon-add:before { content: "\f13f"; }
+.flaticon-chat:before { content: "\f140"; }
